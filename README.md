@@ -10,4 +10,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 React is something looks like hard but when practicising with it it looks like easy thing.But Still It's Hard Thing i would like to say.
 
-#The Overall project was done by Andrei an Instructor of an udemy course.Takes Brillinat Effort to teach from the basics in an understandable way.I just looks his tutorials and recreate the project.
+#The Overall project was done by Andrei an Instructor of an udemy course.Takes Brilliant Effort to teach from the basics in an understandable way.I just looks his tutorials and recreate the project.
